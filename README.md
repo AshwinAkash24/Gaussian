@@ -46,7 +46,7 @@ for i in range(n):
 
 ## Output:
 ![gaussian elimination]()
-![gaussian](https://github.com/AshwinAkash24/Gaussian/assets/144979248/917d8b62-4d92-48dd-942a-fdb9878ee61e)
+<img src=![gaussian](https://github.com/AshwinAkash24/Gaussian/assets/144979248/917d8b62-4d92-48dd-942a-fdb9878ee61e) width=500 height=500>
 
 
 ## Result:
